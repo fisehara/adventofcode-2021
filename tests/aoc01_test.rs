@@ -12,6 +12,7 @@ mod tests {
 
     #[test]
     fn sonar_challenge() {
-        sonar(String::from("./tests/challenge.input"));
+        let num = sonar(String::from("./tests/challenge.input"));
+        println!("{}", num)
     }
 }

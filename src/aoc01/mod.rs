@@ -19,7 +19,6 @@ pub fn sonar(filename: String) -> u32{
             }
         }
     }
-    println!("{}",counter);
     return counter;
 }
 
