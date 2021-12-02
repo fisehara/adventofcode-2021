@@ -8,7 +8,7 @@ edition = "2021"
 [dependencies]
 
 [lib]
-name= 'aoc01'
-path= 'src/aoc01/mod.rs'
+name= 'aoc02'
+path= 'src/aoc02/mod.rs'
 test = true 
  
